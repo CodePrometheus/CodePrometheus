@@ -6,6 +6,8 @@
 **CodePrometheus/CodePrometheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+[![Github](https://img.shields.io/badge/dynamic/json?color=orange&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCodePrometheus)](https://github.com/CodePrometheus)
+[![BiliBili](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=BiliBili&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D342251858)](https://space.bilibili.com/342251858)
 
 嗨😊~ 我是一个在coding这条漫漫长路上苦苦挣扎探索学习的coder，同时也是B站上的一个up主，尝试将自己所学习的以及觉得不错的资料分享与大家共同进步
 
