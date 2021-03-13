@@ -12,7 +12,7 @@ Here are some ideas to get you started:
  小伙伴们，共勉吧!
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently preparing Starry Blog v1
+- 🌱 I’m currently preparing Starry Framework
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Good good study, day day up
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&layout=compact)](https://github.com/CodePrometheus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html&theme=shades-of-purple))](https://github.com/CodePrometheus)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodePrometheus&repo=HelloGin&theme=cobalt)](https://github.com/CodePrometheus/HelloGin)
