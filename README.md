@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 
  小伙伴们，共勉吧!
 
-- 🔭 I’m currently working on Java and Go <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20>
-- 🌱 I’m currently preparing Starry Framework
-- <img src="https://cn.vuejs.org/images/logo.png" width=20 height=20> Sometimes I also do frontend with Vue
-- 🙌 How to reach me: [BiliBili](https://space.bilibili.com/342251858)
-- ⭐ Website: [Starry-Notes](https://codeprometheus.github.io/Starry-Notes/#/)
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Good good study, day day up
+- 🍺 I’m currently working on Java <img src="https://cdn.pixabay.com/photo/2014/04/03/11/08/tea-311845__480.png" width=20 height=20> and Go <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20>
+- ☘️ I’m currently preparing Starry Framework
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width=24 height=24> Sometimes I also do frontend with Vue
+- 📬 How to reach me: [BiliBili](https://space.bilibili.com/342251858)
+- ☄️ Website: [Starry-Notes](https://codeprometheus.github.io/Starry-Notes/#/)
+- 🏳️‍🌈 Fun fact: Good good study, day day up
 
+<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=500 height=500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html&theme=shades-of-purple)](https://github.com/CodePrometheus)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html&theme=shades-of-purple)](https://github.com/CodePrometheus)         
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodePrometheus&repo=HelloGin&theme=cobalt)](https://github.com/CodePrometheus/HelloGin)
