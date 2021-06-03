@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ☄️ Website: [Starry-Notes](https://codeprometheus.github.io/Starry-Notes/#/)
 - 🏳️‍🌈 Fun fact: Good good study, day day up
 
-<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=500 height=500>
+<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=400 height=400>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html&theme=shades-of-purple)](https://github.com/CodePrometheus)         
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodePrometheus&repo=HelloGin&theme=cobalt)](https://github.com/CodePrometheus/HelloGin)
