@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=400 height=400>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html,css&theme=shades-of-purple&layout=compact)](https://github.com/CodePrometheus)         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html,css,scss&theme=shades-of-purple&layout=compact)](https://github.com/CodePrometheus)         
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodePrometheus&repo=HelloGin&theme=cobalt)](https://github.com/CodePrometheus/HelloGin)
