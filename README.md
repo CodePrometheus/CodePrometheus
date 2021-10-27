@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 嗨 ; )  <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="40"> 
 
 - 🍺 I’m currently working on Java <img src="https://cdn.pixabay.com/photo/2014/04/03/11/08/tea-311845__480.png" width=20 height=20> and Go <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20>
-- ☘️ I’m currently preparing Starry Framework
+- ☘️ I’m currently learning Distributed System
 - 🪔 I also do frontend with Vue <img src="https://avatars.githubusercontent.com/u/6128107?s=64&v=4" width=20 height=20> and React<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=20 heigh=10>
 - 📬 How to reach me: [BiliBili](https://space.bilibili.com/342251858)
 - ☄️ Website: [Starry-Notes](https://codeprometheus.github.io/Starry-Notes/#/)
