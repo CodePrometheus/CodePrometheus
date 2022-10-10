@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ☘️ I’m currently learning Distributed System
 - 🪔 I also do frontend with Vue <img src="https://avatars.githubusercontent.com/u/6128107?s=64&v=4" width=20 height=20> and React<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=20 heigh=10>
 - 📬 How to reach me: [BiliBili](https://space.bilibili.com/342251858)
-- ☄️ Website: [Starry-Notes](https://codeprometheus.github.io/Starry-Notes/#/)
 - 🏳️‍🌈 Fun fact: Good good study, day day up
 
 <img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=400 height=400>
