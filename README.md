@@ -16,7 +16,7 @@ Hello~ ; )  <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.
 - 🔭 I also use Vue <img src="https://avatars.githubusercontent.com/u/6128107?s=64&v=4" width=20 height=20> and React<img src="https://avatars.githubusercontent.com/u/11689122?v=4" width=20 heigh=10>
 - 🏳️‍🌈 Fun fact: Good good study, day day up
 
-<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=400 height=400>
+<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=350 height=350>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html,css,scss&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)](https://github.com/CodePrometheus)
 [![CodePrometheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePrometheus&theme=gradient&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/CodePrometheus)
