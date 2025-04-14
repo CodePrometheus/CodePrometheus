@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 
 Hello~ ; )  <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="40"> 
 
-- 🍺 I’m currently working on Java <img src="https://cdn.pixabay.com/photo/2014/04/03/11/08/tea-311845__480.png" width=20 height=20> and Go <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20>
-- ☘️ I focus on Distributed System, Cloud Native and Observability
-- 🔭 I also use Vue <img src="https://avatars.githubusercontent.com/u/6128107?s=64&v=4" width=20 height=20> and React<img src="https://avatars.githubusercontent.com/u/11689122?v=4" width=20 heigh=10>
+- 🔭 Open Source Contributions:
+  - [Apache SkyWalking](https://skywalking.apache.org/) (Committer, PMC Member)
+  - [OpenTelemetry - CNCF](https://opentelemetry.io/) (Member)
+
 - 🏳️‍🌈 Fun fact: Good good study, day day up
 
 <img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=350 height=350>
