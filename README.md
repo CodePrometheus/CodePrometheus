@@ -20,4 +20,4 @@ Hello~ ; )  <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.
 <img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=350 height=350>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePrometheus&hide=html,css,scss,vue,typescript,&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)](https://github.com/CodePrometheus)
-[![CodePrometheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePrometheus&theme=gradient&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/CodePrometheus)
+[![CodePrometheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePrometheus&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/CodePrometheus)
