@@ -15,8 +15,6 @@ Hello~ ; )  <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.
   - [Apache SkyWalking](https://skywalking.apache.org/) (Committer, PMC Member)
   - [OpenTelemetry - CNCF](https://opentelemetry.io/) (Member)
 
-- 🏳️‍🌈 Fun fact: Good good study, day day up
-
 <img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=350 height=350>
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CodePrometheus&hide=html,css,scss,vue,typescript&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)](https://github.com/CodePrometheus)
